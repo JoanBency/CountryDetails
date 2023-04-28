@@ -84,6 +84,9 @@ In order to run this project you need:
   npm install
 ```
 
+Create a <b>.env.local</b> file and add the value for <b>REACT_APP_API_URL</b> as the url of the localhost with port server is run on.
+eg: http://localhost:3001
+
 ### Usage
 
 > Server Side:
