@@ -53,7 +53,7 @@
 
 <!-- GETTING STARTED -->
 
-## 💻 Getting Started <a name="getting-started"></a>
+## Getting Started <a name="getting-started"></a>
 
 > Clone the code from GitHub and unzip it. Folder named <b>frontend</b> holds the React.js Client code while the folder <b>backend</b> holds the Node.js Server code.
 
