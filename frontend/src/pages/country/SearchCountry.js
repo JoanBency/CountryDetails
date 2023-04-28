@@ -14,7 +14,7 @@ const SearchCountry = () => {
         setCountryName(e.target.value);
         if(CountryName.length > 1) {
         // setCardDisplayed(true);
-        fetch(`http://localhost:3001/api/country/${CountryName}`)
+        fetch(`https://countrydetails-api.herokuapp.com/api/country/${CountryName}`)
             .then((res) => res.json())
             .then((data) => {
                 if(data.status === 404) {
