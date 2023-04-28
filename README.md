@@ -32,8 +32,6 @@
 
 <h5>Client - React.js</h5>
   <br />
-  <br />
-  <br />
 <h5>Server - Node.js</h5>
 
 
