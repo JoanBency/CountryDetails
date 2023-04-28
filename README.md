@@ -22,7 +22,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# [Country Details] <a name="project-description"></a>
+# Country Details <a name="project-description"></a>
 
 > Country Details is an app where you can search for different countries and see information regarding them.
 
