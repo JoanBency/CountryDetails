@@ -47,6 +47,10 @@
 
 - [Country Details Demo](https://countrydetails-search.herokuapp.com)
 
+> Deployed Server Side URL
+
+- [https://countrydetails-api.herokuapp.com](https://countrydetails-api.herokuapp.com)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
