@@ -26,14 +26,14 @@ export const Logo = styled.img`
   margin-left: 2%;
   margin-top: 5px;
   `
-  export const Title = styled.h6`
+  export const Title = styled.h1`
   color: #000000;
   font-weight: 3000;
   display: flex;
   align-items: left;
   font-size: 1.5rem;
   margin-left: -15%;
-  margin-top: 12px;
+  padding-top: 15px;
 `
 
 export const MenuLink = styled(Link)`

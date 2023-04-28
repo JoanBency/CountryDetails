@@ -22,7 +22,6 @@ const Home = () => {
         backgroundPosition: 'center',
         backgroundRepeat: 'no-repeat',
         backgroundSize: 'cover',
-        gridGap: 20,
         marginTop: 50,
         marginLeft: 100,
         marginRight: 100,

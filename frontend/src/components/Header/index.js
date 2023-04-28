@@ -8,7 +8,7 @@ const Navbar = () => {
       <PrimaryNav>
         <GridContainer>
           <GridItem><Logo src={ logo } alt="logo" /></GridItem>
-          <GridItem><Title as="h1">Country Details</Title></GridItem>
+          <GridItem><Title>Country Details</Title></GridItem>
         </GridContainer>
         </PrimaryNav>
         <Menu>
