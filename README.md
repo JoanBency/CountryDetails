@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="frontend/src/assets/world_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="world-logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Country Details</b></h3>
